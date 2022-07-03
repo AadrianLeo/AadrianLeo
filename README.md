@@ -49,7 +49,5 @@ const AadrianLeo = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadrianLeo&show_icons=true)
 #
-<img  src="https://github-readme-streak-stats.vercel.com/?user=AadrianLeo&theme=react" width="48%" >
-
 ![github graph](https://activity-graph.herokuapp.com/graph?username=AadrianLeo&theme=react-dark)
-
+#
