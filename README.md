@@ -17,8 +17,8 @@ const AadrianLeo = {
             js: ["node", "express", "nodemon"],
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongoDB", "MySql", "sqlite", "sanity"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "mediapipe"]
+        databases: ["mongoDB", "MySql", "sqlite", "sanity", "firebase"],
+        misc: ["Socket.IO", "selenium", "open-cv", "mediapipe"]
     },
     architecture: ["Progressive web applications", "Dynamic web applications", "Single page applications"],
     currentProject: "Surprise comming soon",
