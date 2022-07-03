@@ -25,6 +25,20 @@ const AadrianLeo = {
     funFact: "There are two ways to write error-free code; only the third one works"
 };
 ```
+#
+
+<p align="center">
+ 
+<a href="https://twitter.com/aadrian_leo?t=cxH9bivL6X2Rd12fTudnTA&s=09" target="_blank">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+
+<a href="https://www.instagram.com/aadrian_leo" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
+
+<a href="https://www.linkedin.com/in/dharampal-singh-35887721a/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+</p>
+
 # 
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fbcca5b0a16ffde440d8808dbbcc1d76978bfea9&rid=giphy.gif&ct=g" width="350" align='right'>
 
@@ -35,3 +49,7 @@ const AadrianLeo = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadrianLeo&show_icons=true)
 #
+<img  src="https://github-readme-streak-stats.vercel.com/?user=AadrianLeo&theme=react" width="48%" >
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=AadrianLeo&theme=react-dark)
+
