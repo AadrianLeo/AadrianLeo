@@ -29,7 +29,7 @@ const AadrianLeo = {
 
 <p align="center">
  
-<a href='https://dharampal.netlify.app' target='_blank'  rel="noopener noreferrer">
+<a href='https://dharampal.netlify.app' target='_blank'>
 <img src="https://img.shields.io/badge/-Portfolio-%231af1d2" alt="Portfolio" /></a> 
  
 <a href='https://api.whatsapp.com/send?phone=7977183690' target='_blank'  rel="noopener noreferrer">
