@@ -40,7 +40,7 @@ const AadrianLeo = {
 </p>
 
 # 
-<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fbcca5b0a16ffde440d8808dbbcc1d76978bfea9&rid=giphy.gif&ct=g" width="300" align='right'>
+<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fbcca5b0a16ffde440d8808dbbcc1d76978bfea9&rid=giphy.gif&ct=g" width="320" align='right'>
 
 [![Aadrian leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AadrianLeo&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/AadrianLeo/github-readme-stats)
 
