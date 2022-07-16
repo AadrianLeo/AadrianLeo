@@ -29,6 +29,12 @@ const AadrianLeo = {
 
 <p align="center">
  
+<a href='https://api.whatsapp.com/send?phone=7977183690' target='_blank'  rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-Portfolio-%231af1d2" alt="Portfolio" /></a> 
+ 
+<a href='https://api.whatsapp.com/send?phone=7977183690' target='_blank'  rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-WhatsApp-%761EA1F5" alt="WhatsApp" /></a> 
+ 
 <a href="https://twitter.com/aadrian_leo?t=cxH9bivL6X2Rd12fTudnTA&s=09" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
