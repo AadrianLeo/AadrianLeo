@@ -48,12 +48,12 @@ const AadrianLeo = {
 # 
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fbcca5b0a16ffde440d8808dbbcc1d76978bfea9&rid=giphy.gif&ct=g" width="320" align='right'>
 
-[![Aadrian leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AadrianLeo&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/AadrianLeo/github-readme-stats)
+[![Aadrian leo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AadrianLeo&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/AadrianLeo/github-readme-stats)
 
 #
 <img src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47xwsjxa4b5htfdifylgbwowdu03bb3y1xbqyk4rsz&rid=giphy.gif&ct=g" width="520" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadrianLeo&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AadrianLeo&show_icons=true)
 #
-![github graph](https://activity-graph.herokuapp.com/graph?username=AadrianLeo&theme=react-dark)
+[![AadrianLeo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AadrianLeo&theme=gotham)](https://github.com/AadrianLeo/github-readme-activity-graph)
 #
