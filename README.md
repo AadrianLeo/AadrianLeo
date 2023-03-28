@@ -45,6 +45,15 @@ const AadrianLeo = {
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 </p>
 
+#
+<img src="https://media.giphy.com/media/l41lISBVXb9gRT32w/giphy.gif" width="520" align='right'  alt="jokes GIF">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f) 
+
 # 
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fbcca5b0a16ffde440d8808dbbcc1d76978bfea9&rid=giphy.gif&ct=g" width="320" align='right'>
 
