@@ -64,9 +64,9 @@ const AadrianLeo = {
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AadrianLeo&show_icons=true)
 #
-<img src="https://media.giphy.com/media/87b6lrxvf4uJIL1zl3/giphy.gif" width="400" align='right'>
+<img src="https://media.giphy.com/media/87b6lrxvf4uJIL1zl3/giphy.gif" width="200" align='right'>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6511b3a13dc8db4c64bab900?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6511b3a13dc8db4c64bab900?variant=dark" alt="roadmap.sh"/></a>
 
 
 #
