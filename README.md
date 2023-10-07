@@ -66,7 +66,7 @@ const AadrianLeo = {
 #
 <img src="https://media.giphy.com/media/87b6lrxvf4uJIL1zl3/giphy.gif" width="200" align='right'>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6511b3a13dc8db4c64bab900?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6511b3a13dc8db4c64bab900?variant=dark)](https://roadmap.sh)
 
 
 #
