@@ -38,7 +38,7 @@ const AadrianLeo = {
 <a href="https://twitter.com/aadrian_leo?t=cxH9bivL6X2Rd12fTudnTA&s=09" target='_blank'  rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
-<a href="https://www.instagram.com/aadrian.leo" target='_blank'  rel="noopener noreferrer">
+<a href="https://www.instagram.com/dharamm.singh" target='_blank'  rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
 <a href="https://www.linkedin.com/in/dharampal-singh-35887721a/" target='_blank'  rel="noopener noreferrer">
